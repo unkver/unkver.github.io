@@ -1,0 +1,17 @@
+body {
+    background-image: url("background.jpg"); 
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+.title {
+    color:darkorange;
+    text-align:center;
+    margin-top:-10px;
+}
+p {
+    color:white;
+    font-size:20px;
+}
+a {
+    color: deeppink; 
+}
